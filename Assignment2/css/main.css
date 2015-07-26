@@ -1,0 +1,48 @@
+﻿.navbar-default {
+    background-image:none;
+    background-color:deepskyblue;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color:royalblue;
+}
+
+.navbar-default a.navbar-brand:focus, .navbar-default a.navbar-brand:hover {
+    color:royalblue;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default a.navbar-brand {
+    color:darkblue;
+}
+
+#ContentPlaceHolder1_txtRecipeDirections {
+    height: 100px;
+    width: 350px;
+}
+
+footer {
+   
+    color:darkblue;
+    padding:15px;
+}
+
+.defaultPage {
+    text-align:center;
+}
+
+div {
+    color: darkblue;
+}
+
+body {
+    background:url("../images/vegetables.jpg");
+}
+
+#ContentPlaceHolder1_grdRecipes, #ContentPlaceHolder1_grdIngredients, #ContentPlaceHolder1_grdViewIngredients, #ContentPlaceHolder1_grdIngredients th {
+    background-color: deepskyblue;
+    border-radius: 25px;
+}
+
+a {
+    color:black;
+}
